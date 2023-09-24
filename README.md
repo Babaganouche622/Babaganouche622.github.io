@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on a full-stack personal project and an indie game.<br>👯 I’m looking to collaborate on anything game design.<br>🤝 I’m looking for help with learning how to use Unity.<br>🌱 I’m currently learning Python, JavaScript, React, Ruby, Rails, Unity(C#).<br>💬 Ask me about gaming, music, anime, or comics. <br>⚡ Fun fact: I was a career baker for 10+ years before switching to programming.
+# My Projects:
+- [Elden Ring API search](http://babaganouche622.failingforward.works/acs-1320-final-project/)
+- [Spotify Dataviz API search](http://babaganouche622.failingforward.works/ACS-4310-D3-tutorial/)
+
 
 [![](https://visitcount.itsvg.in/api?id=Babaganouche622&icon=7&color=10)](https://visitcount.itsvg.in)
 
