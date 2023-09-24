@@ -1,6 +1,7 @@
 # My Projects:
 - [Elden Ring API search](http://babaganouche622.failingforward.works/acs-1320-final-project/)
-- [Spotify Dataviz API search](http://babaganouche622.failingforward.works/ACS-4310-D3-tutorial/)
+- [Spotify Dataviz](http://babaganouche622.failingforward.works/visualise-my-spotify/)
+- [Anime Dataviz](http://babaganouche622.failingforward.works/ACS-4310-D3-tutorial/)
 
 
 [![](https://visitcount.itsvg.in/api?id=Babaganouche622&icon=7&color=10)](https://visitcount.itsvg.in)
