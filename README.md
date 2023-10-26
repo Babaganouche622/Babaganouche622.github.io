@@ -2,6 +2,7 @@
 - [Elden Ring API search](http://babaganouche622.failingforward.works/acs-1320-final-project/)
 - [Spotify Dataviz](http://babaganouche622.failingforward.works/visualise-my-spotify/)
 - [Anime Dataviz](http://babaganouche622.failingforward.works/ACS-4310-D3-tutorial/)
+- [CSS Zen Garden](http://babaganouche622.failingforward.works/ACS-3320-CSS-Zen-Garden/)
 
 
 [![](https://visitcount.itsvg.in/api?id=Babaganouche622&icon=7&color=10)](https://visitcount.itsvg.in)
